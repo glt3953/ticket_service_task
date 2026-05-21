@@ -83,6 +83,8 @@ chmod +x test.sh solve.sh
 3. 验证修复版本
 ```
 ./solve.sh   # 会覆盖 Sources 中的文件
+# 删除旧的 build 缓存
+rm -rf .build
 ./test.sh
 ```
 这样你就可以在 不安装 Docker 的情况下验证 bug 是否存在、修复是否有效。

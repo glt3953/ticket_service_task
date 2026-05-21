@@ -1325,3 +1325,15 @@
 .build/x86_64-apple-macosx/debug/TicketService.swiftdoc
 .build/x86_64-apple-macosx/debug/TicketService.swiftmodule
 .build/x86_64-apple-macosx/debug/TicketService.swiftsourceinfo
+.build/x86_64-apple-macosx/build.db-journal
+.build/x86_64-apple-macosx/debug/ModuleCache/1C2PP14MMKNIE/Foundation-2M8Y3D1H909LB-1e8b9e81.pcm.tmp
+.build/x86_64-apple-macosx/debug/ModuleCache/1C2PP14MMKNIE/Foundation-2M8Y3D1H909LB.pcm.lock
+.build/x86_64-apple-macosx/debug/ModuleCache/1C2PP14MMKNIE/Foundation-2M8Y3D1H909LB.pcm.lock-600fb0ff
+.build/x86_64-apple-macosx/debug/ModuleCache/1C2PP14MMKNIE/Security-3MRSRYU7H638B-35747935.pcm.tmp
+.build/x86_64-apple-macosx/debug/ModuleCache/1C2PP14MMKNIE/Security-3MRSRYU7H638B.pcm.lock
+.build/x86_64-apple-macosx/debug/ModuleCache/1C2PP14MMKNIE/Security-3MRSRYU7H638B.pcm.lock-19a2a715
+.build/x86_64-apple-macosx/debug/index/store/v5/records/Z4/x86_64-apple-macos.swiftinterface_Misc-34VY1SSUNN9Z4
+.build/x86_64-apple-macosx/debug/index/store/v5/records/VZ/x86_64-apple-macos.swiftinterface-EI7N7F317WVZ
+.build/x86_64-apple-macosx/debug/index/store/v5/records/VO/x86_64-apple-macos.swiftinterface_Math_Integers-1X1K1CD9NZDVO
+.build/x86_64-apple-macosx/debug/index/store/v5/records/7O/TicketService.swift-VORXCZQ3FF7O
+.build/x86_64-apple-macosx/debug/TicketService.build/TicketService.swiftdeps~
