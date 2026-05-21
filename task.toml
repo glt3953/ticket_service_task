@@ -1,0 +1,17 @@
+version = "1.0"
+
+[metadata]
+author = "ios-examiner"
+difficulty = "hard"
+category = "concurrency-state-machine"
+tags = ["swift", "gcd", "deadlock", "timeout", "ios"]
+
+[environment]
+image = "swift:5.9"
+resources = { cpu = 2, memory = "512Mi" }
+
+[verifier]
+timeout_seconds = 600
+
+[agent]
+timeout_seconds = 1800

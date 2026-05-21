@@ -1,0 +1,12 @@
+ticket_service_task/
+├── task.toml
+├── instruction.md
+├── Dockerfile
+├── test.sh
+├── test_state.py
+├── solve.sh
+├── Sources/
+│   └── TicketService.swift          # 存在 bug 的原始版本
+├── Solutions/
+│   └── TicketService_fixed.swift    # 满分修复版本
+└── Package.swift                    # Swift 包配置文件
